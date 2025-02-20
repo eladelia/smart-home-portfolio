@@ -1,0 +1,245 @@
+/* שינוי רקע כללי של האתר */
+body {
+    background-color: #ffffff; /* רקע לבן לחלק התחתון */
+    color: black;
+    font-family: Arial, sans-serif;
+    direction: rtl;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+}
+
+/* עיצוב תפריט הניווט - נשאר קבוע */
+header {
+    background-color: #15D4FC; /* רקע כהה */
+    padding: 0;
+    position: fixed; /* קבוע בחלק העליון */
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+/* הגדרת מקום לתוכן מתחת לניווט */
+.hero-header {
+    margin-top: 30px; /* רווח מתחת לתפריט */
+    color: white;
+}
+
+/* ניווט - לשוניות */
+nav {
+    text-align: center;
+    background-color: #15D4FC;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: row; /* מסדר את הלשוניות נכון מימין לשמאל */
+}
+
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 21px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background 0.3s, color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #004488;
+    color: #ffffff;
+}
+
+/* תמונת הרקע בראש הדף - מופיעה מתחת ללשוניות */
+.hero-header {
+    background-image: url("Pictures/pic_header_blue.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+}
+
+/* שמירת מרכז הדף, אך טקסטים מיושרים לימין */
+section {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    text-align: right;
+}
+
+/* עיצוב טקסט לפסקאות */
+p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #333;
+}
+
+/* עיצוב קופסת קוד */
+pre {
+    position: relative;
+    background-color: #1e1e1e;
+    color: #f8f8f8;
+    padding: 15px;
+    border-radius: 8px;
+    overflow-x: auto;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: left;
+    direction: ltr;
+}
+
+/* עיצוב הקוד עצמו */
+code {
+    text-align: left;
+    direction: ltr;
+    display: block;
+    white-space: pre-wrap;
+}
+
+/* כפתור העתקה */
+.copy-btn {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: #004488;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background 0.3s;
+}
+
+.copy-btn:hover {
+    background: #0066cc;
+}
+/* סגנון שירותים */
+.service {
+    margin-bottom: 30px;
+    padding: 15px;
+    border-bottom: none;
+}
+/* ודא שהטקסט המוסתר מופיע כהמשך ישיר ולא יורד שורה */
+.full-text {
+    display: none; /* מוסתר בהתחלה */
+}
+
+.full-text.inline {
+    display: inline; /* מוצג באותה שורה */
+}
+
+/* עיצוב כפתור "קרא עוד" כך שיהיה בשורה אחת עם הטקסט */
+button.read-more {
+    background: none;
+    border: none;
+    color: #004488;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: underline;
+    margin-right: 5px; /* הפרדה קטנה מהטקסט */
+    display: inline;
+}
+
+button.read-more:hover {
+    color: #0066cc;
+}
+/* עיצוב כללי של "צור קשר" */
+#contact {
+    text-align: right; /* יישור הטקסט לימין */
+    direction: rtl;
+    font-size: 20px; /* הגדלת גודל הכתב */
+    font-weight: bold;
+    margin: 50px auto; /* ריווח מהחלק העליון והתחתון */
+    width: 50%; /* מרכז את הקטע */
+}
+
+/* כותרת */
+#contact h2 {
+    text-align: center; /* כותרת ממורכזת */
+    font-size: 28px;
+}
+
+/* עיצוב האייקונים */
+.contact-icon {
+    width: 24px; /* גודל קבוע לכל האייקונים */
+    height: 24px;
+    margin-left: 8px;
+    vertical-align: middle; /* גורם לטקסט להיות ממורכז לגובה האייקון */
+}
+
+/* קישורים */
+#contact a {
+    color: #004488;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+    color: #0066cc;
+}
+/* סידור כללי */
+#brands {
+    text-align: center;
+    margin-top: 40px;
+    padding: 0; /* הסרת רקע וריווח מיותר */
+}
+
+/* עיצוב כללי של כל שורת האייקונים */
+.brands-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px; /* ריווח אחיד בין האייקונים */
+    margin-bottom: 10px; /* הפרדה בין השורות */
+}
+
+/* שורה עליונה - אייקונים רחבים */
+.top-row {
+    display: flex;
+    justify-content: center;
+    gap: 30px; /* ריווח גדול יותר בגלל הרוחב שלהם */
+}
+
+/* שורה תחתונה - שאר האייקונים */
+.bottom-row {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+/* גודל כללי לכל האייקונים */
+.brand-icon {
+    height: 50px; /* שומר על גובה אחיד */
+    width: auto; /* כדי לשמור על פרופורציות מקוריות */
+    transition: transform 0.2s ease-in-out;
+}
+
+/* אייקונים רחבים בשורה העליונה */
+.large-icon {
+    height: 60px; /* מעט גבוהים יותר */
+    width: auto;
+}
+
+/* אפקט hover */
+.brand-icon:hover {
+    transform: scale(1.1);
+}

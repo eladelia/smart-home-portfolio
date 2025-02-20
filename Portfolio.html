@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>פורטפוליו בית חכם - אלעד</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">דף הבית</a></li>
+                <li><a href="#about">אודות</a></li>
+                <li><a href="#services">שירותים</a></li>
+                <li><a href="#videos">סרטונים והדגמות</a></li>
+                <li><a href="#codes">קודים ודוגמאות</a></li>
+                <li><a href="#contact">יצירת קשר</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home">
+        <h1>ניהול בית חכם ברמה הגבוהה ביותר</h1>
+        <p>ברוך הבא לפורטפוליו שלי! כאן תוכלו למצוא את כל הידע, הכלים והפתרונות להפיכת הבית שלכם לחכם, תוך שימוש ב-Home Assistant ובאוטומציות מתקדמות. אני מציג כאן את הגישה שלי לניהול חכם של בית מודרני, עם התאמות אישיות ופתרונות יצירתיים לכל צורך.</p>
+    </section>
+    
+    
+    <section id="about">
+        <h2>אודות</h2>
+        <p>אני אלעד, מומחה לניהול והטמעת מערכות בית חכם עם ניסיון של למעלה משבע שנים בתחום.  
+        כבר מאז שנות ה-90 אני חי את עולם הטכנולוגיה ומשלב בין תוכנה לחומרה. מה שהתחיל כתחביב הפך להתמחות מקצועית – יצירת חיבורים חכמים בין מוצרי חשמל ביתיים תוך שימוש במערכת <strong>Home Assistant</strong>, וכן <strong>אינטגרציה עם Apple HomeKit, Google Home ועוד</strong>, כדי לאפשר שליטה חכמה וגמישה במערכות הבית.</p>
+    
+        <p>אני מתמקד <strong>במחקר מעמיק של תקלות, פתרון בעיות מורכבות, והתאמה אישית של טכנולוגיות חכמות</strong>, תוך שימוש <strong>בפרוטוקולים מתקדמים</strong> כמו <strong>Zigbee, Matter, Thread ועוד</strong>, המאפשרים תקשורת יציבה ומאובטחת בין המכשירים החכמים. עבורי, בית חכם הוא לא רק נוחות – הוא הדרך להפוך את הטכנולוגיה לכלי שמשרת אותנו בצורה אינטואיטיבית, מתקדמת ויעילה.</p>
+    </section>
+    
+    
+    <section id="services">
+        <h2>שירותים</h2>
+    
+        <div class="service hidden">
+            <h3>ייעוץ והכוונה לבית חכם</h3>
+            <p>המעבר לבית חכם לא חייב להיות מסובך – אני כאן כדי להפוך את התהליך לברור, פשוט ומותאם בדיוק לצרכים שלכם...</p>
+        </div>
+    
+        <div class="service hidden">
+            <h3>פתרונות יצירתיים לבתים ישראליים</h3>
+            <p>בתים בישראל בנויים ומעוצבים בצורה ייחודית, ולעיתים דורשים התאמות מיוחדות בכל הנוגע לבית חכם...</p>
+        </div>
+    
+        <div class="service hidden">
+            <h3>אינטגרציה עם Home Assistant, Apple HomeKit ו-Google Home</h3>
+            <p>מערכת בית חכם צריכה להיות גמישה ולתמוך במגוון רחב של מכשירים וטכנולוגיות...</p>
+        </div>
+    
+        <!-- כל שאר השירותים באותו פורמט -->
+    </section>
+    
+    <style>
+        .hidden {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+        }
+    
+        .visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+    
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const services = document.querySelectorAll(".service");
+    
+            const observer = new IntersectionObserver(entries => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add("visible");
+                    }
+                });
+            }, { threshold: 0.2 });
+    
+            services.forEach(service => {
+                observer.observe(service);
+            });
+        });
+    </script>
+    
+    
+    
+    <section id="videos">
+        <h2>סרטונים והדגמות</h2>
+        <p>צפה בסרטוני ההדרכה וההדגמות שלי.</p>
+    </section>
+    
+    <section id="codes">
+        <h2>קודים ודוגמאות</h2>
+        <p>כאן תוכל למצוא דוגמאות של כרטיסים ואוטומציות לשימוש ב-Home Assistant.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>יצירת קשר</h2>
+        <p style="display: flex; flex-direction: column; gap: 15px; align-items: right;">
+           <span style="display: flex; align-items: center; gap: 10px;">
+                📱 0544-30-48-66
+           </span>
+           <span style="display: flex; align-items: center; gap: 10px;">
+               💻 <a href="mailto:eliaelad@gmail.com">eliaelad@gmail.com</a>
+           </span>
+           <span style="display: flex; align-items: center; gap: 10px;">
+               <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="24" height="24">
+               <a href="https://wa.me/972544304866/" target="_blank">שליחת הודעה ב-WhatsApp</a>
+           </span>
+           <span style="display: flex; align-items: center; gap: 10px;">
+               <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="24" height="24">
+               <a href="https://www.facebook.com/eladelia/" target="_blank">Elad Elia</a>
+           </span>
+        </p>
+    </section>
+
+
+
+
+
+
+
+</body>
+</html>
+

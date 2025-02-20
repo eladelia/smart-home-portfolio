@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>קודים ודוגמאות</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <nav>
+        <ul>
+            <li><a href="index.html">דף הבית</a></li>
+            <li><a href="about.html">אודות</a></li>
+            <li><a href="services.html">שירותים</a></li>
+            <li><a href="videos.html">סרטונים והדגמות</a></li>
+            <li><a href="codes.html">קודים ודוגמאות</a></li>
+            <li><a href="contact.html">יצירת קשר</a></li>
+        </ul>
+    </nav>
+</header>
+
+
+    <section id="codes">
+        <h2>קודים ודוגמאות</h2>
+        <p>כאן תוכלו למצוא דוגמאות לקוד עבור Home Assistant, כולל תצורות YAML, התאמות אישיות לדשבורד, ואוטומציות מוכנות לשימוש.</p>
+
+        <div class="code-snippet">
+            <h3>דוגמה לאוטומציה להפעלת תאורה</h3>
+            <pre>
+              <code>
+automation:
+  - alias: "הפעלת תאורה עם חיישן תנועה"
+    trigger:
+      - platform: state
+        entity_id: binary_sensor.motion_sensor
+        to: "on"
+    action:
+      - service: light.turn_on
+        entity_id: light.living_room
+              </code>
+            </pre>
+        </div>
+
+        <div class="code-snippet">
+            <h3>דוגמה להתאמת דשבורד</h3>
+            <pre>
+              <code>
+views:
+  - title: "בית חכם"
+    cards:
+      - type: entity
+        entity: light.living_room
+        name: "תאורה בסלון"
+              </code>
+            </pre>
+        </div>
+
+    </section>
+
+</body>
+</html>
