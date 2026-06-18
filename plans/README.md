@@ -19,13 +19,22 @@ A black & white, construction-style floor plan of the public floor, built to wor
   | 5 | Living 2 | ~3 × 2.5 | ~1.80 × 1.50 m | ~2.7 m² |
 - **Layout & adjacencies** are traced from the **Dreame Aqua 10** vacuum map, the aerial photo, and interior photos. Room numbers match the map badges.
 
-## Fixed features shown
-- **Garden + terrace** off the living room (north), **opposite the entrance**.
-- **Staircase** to the 1st floor in the living room (indicative position — black railing / dark treads).
-- **Divider wall** (the key focal wall): black shelving + guitar on the living side, iPad candidate, dining beyond; freestanding white column at its end.
-- **TV wall** (clean wall, west), living-room **vitrine + 2 narrow windows** on the terrace facade.
-- **Guest WC** (#5) — enclosed room with door, toilet + basin.
-- **Cream U-kitchen** with corner window and peninsula; **dining** window on the east wall.
+## Layout (rebuilt from all photos)
+- **Divider wall** runs **N–S** separating the **dining (east)** from everything else (west); ends in a freestanding **column**. Black shelving + guitar sit on its living-room face. Open below (no wall between dining and entrance).
+- **Staircase** is **central** — a **switchback, 2 flights × 9 steps**, with an **under-stair storage** closet; **kitchen to its west**, **guest WC adjacent**.
+- **Front door on the south** (kitchen on your right as you face it). **Garden** is a 'resh' (ר): north (off the living-room **terrace**) + east, **opposite the entrance**.
+- **Living room** (north): **TV on the west wall**, sofa facing it, **terrace vitrine + 2 narrow windows** on the north facade.
+- **Dining**: round table, **window on the east wall** (faces the east garden leg).
+- **Cream U-kitchen**: counters on three walls, **corner window** at the SW corner, open to the hall.
+- **Guest WC** (#5): enclosed, door + toilet + basin.
+- Furniture shown for scale only: sofa, TV, dining table + chairs. (No iPad / device clutter.)
+
+## Photo → location key
+- *IMG_8737 / 4126169b* — living room: terrace doors (N), narrow windows, TV (W), sofa, staircase.
+- *47702e77* — staircase (switchback) with kitchen on the left and under-stair storage.
+- *b5570935 / IMG_8734 / e57328…* — divider wall (black shelf + guitar) + column, dining beyond.
+- *IMG_8698 / IMG_8736 / 9948…* — U-kitchen, corner window.
+- *0434c733* — dark front door (south) with console table.
 
 ## Drawing conventions
 - **Solid thick line** = exterior wall or the central **divider wall** (the black-shelving / iPad wall).
