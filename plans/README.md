@@ -17,7 +17,15 @@ A black & white, construction-style floor plan of the public floor, built to wor
   | 3 | Entrance | 4 × 4 | 2.40 × 2.40 m | 5.8 m² |
   | 4 | Kitchen | 6.5 × 5 | 3.90 × 3.00 m | 11.7 m² |
   | 5 | Living 2 | ~3 × 2.5 | ~1.80 × 1.50 m | ~2.7 m² |
-- **Layout & adjacencies** are traced from the **Dreame Aqua 10** vacuum map. Room numbers match the map badges.
+- **Layout & adjacencies** are traced from the **Dreame Aqua 10** vacuum map, the aerial photo, and interior photos. Room numbers match the map badges.
+
+## Fixed features shown
+- **Garden + terrace** off the living room (north), **opposite the entrance**.
+- **Staircase** to the 1st floor in the living room (indicative position — black railing / dark treads).
+- **Divider wall** (the key focal wall): black shelving + guitar on the living side, iPad candidate, dining beyond; freestanding white column at its end.
+- **TV wall** (clean wall, west), living-room **vitrine + 2 narrow windows** on the terrace facade.
+- **Guest WC** (#5) — enclosed room with door, toilet + basin.
+- **Cream U-kitchen** with corner window and peninsula; **dining** window on the east wall.
 
 ## Drawing conventions
 - **Solid thick line** = exterior wall or the central **divider wall** (the black-shelving / iPad wall).
