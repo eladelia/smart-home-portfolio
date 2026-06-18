@@ -1,0 +1,191 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1820" height="1880" viewBox="0 0 1820 1880" font-family="DejaVu Sans">
+<rect width="1820" height="1880" fill="white"/>
+<rect x="171.0" y="223.0" width="189.0" height="486.0" fill="#f3f3f3"/>
+<rect x="886.5" y="1060.0" width="607.5" height="405.0" fill="#f3f3f3"/>
+<text x="258.75" y="493.0" font-size="26" fill="#8a8a8a" font-style="italic" text-anchor="middle" transform="rotate(0 258.75 493.0)">GARDEN</text>
+<text x="1224.0" y="1276.0" font-size="26" fill="#8a8a8a" font-style="italic" text-anchor="middle" transform="rotate(0 1224.0 1276.0)">GARDEN</text>
+<clipPath id="fp"><polygon points="360,250 1089.0,250 1089.0,493.0 1494.0,493.0 1494.0,1060.0 886.5,1060.0 886.5,1465.0 360,1465.0"/></clipPath>
+<g clip-path="url(#fp)" stroke="#d9d9d9" stroke-width="1">
+<line x1="360.0" y1="250" x2="360.0" y2="1465.0"/>
+<line x1="441.0" y1="250" x2="441.0" y2="1465.0"/>
+<line x1="522.0" y1="250" x2="522.0" y2="1465.0"/>
+<line x1="603.0" y1="250" x2="603.0" y2="1465.0"/>
+<line x1="684.0" y1="250" x2="684.0" y2="1465.0"/>
+<line x1="765.0" y1="250" x2="765.0" y2="1465.0"/>
+<line x1="846.0" y1="250" x2="846.0" y2="1465.0"/>
+<line x1="927.0" y1="250" x2="927.0" y2="1465.0"/>
+<line x1="1008.0" y1="250" x2="1008.0" y2="1465.0"/>
+<line x1="1089.0" y1="250" x2="1089.0" y2="1465.0"/>
+<line x1="1170.0" y1="250" x2="1170.0" y2="1465.0"/>
+<line x1="1251.0" y1="250" x2="1251.0" y2="1465.0"/>
+<line x1="1331.9999999999998" y1="250" x2="1331.9999999999998" y2="1465.0"/>
+<line x1="1412.9999999999998" y1="250" x2="1412.9999999999998" y2="1465.0"/>
+<line x1="1493.9999999999998" y1="250" x2="1493.9999999999998" y2="1465.0"/>
+<line x1="360" y1="250.0" x2="1494.0" y2="250.0"/>
+<line x1="360" y1="331.0" x2="1494.0" y2="331.0"/>
+<line x1="360" y1="412.0" x2="1494.0" y2="412.0"/>
+<line x1="360" y1="493.0" x2="1494.0" y2="493.0"/>
+<line x1="360" y1="574.0" x2="1494.0" y2="574.0"/>
+<line x1="360" y1="655.0" x2="1494.0" y2="655.0"/>
+<line x1="360" y1="736.0" x2="1494.0" y2="736.0"/>
+<line x1="360" y1="817.0" x2="1494.0" y2="817.0"/>
+<line x1="360" y1="898.0" x2="1494.0" y2="898.0"/>
+<line x1="360" y1="978.9999999999999" x2="1494.0" y2="978.9999999999999"/>
+<line x1="360" y1="1060.0" x2="1494.0" y2="1060.0"/>
+<line x1="360" y1="1141.0" x2="1494.0" y2="1141.0"/>
+<line x1="360" y1="1221.9999999999998" x2="1494.0" y2="1221.9999999999998"/>
+<line x1="360" y1="1302.9999999999998" x2="1494.0" y2="1302.9999999999998"/>
+<line x1="360" y1="1383.9999999999998" x2="1494.0" y2="1383.9999999999998"/>
+<line x1="360" y1="1464.9999999999998" x2="1494.0" y2="1464.9999999999998"/>
+</g>
+<line x1="360" y1="736.0" x2="1089.0" y2="736.0" stroke="#7a7a7a" stroke-width="1.6" stroke-dasharray="9 7"/>
+<line x1="765.0" y1="736.0" x2="765.0" y2="1060.0" stroke="#7a7a7a" stroke-width="1.6" stroke-dasharray="9 7"/>
+<line x1="360" y1="1060.0" x2="886.5" y2="1060.0" stroke="#7a7a7a" stroke-width="1.6" stroke-dasharray="9 7"/>
+<line x1="360" y1="857.5" x2="603.0" y2="857.5" stroke="#7a7a7a" stroke-width="1.6" stroke-dasharray="9 7"/>
+<line x1="603.0" y1="857.5" x2="603.0" y2="1060.0" stroke="#7a7a7a" stroke-width="1.6" stroke-dasharray="9 7"/>
+<rect x="1059.3" y="506.5" width="29.7" height="229.5" fill="#2b2b2b" stroke="#111111" stroke-width="1"/>
+<rect x="630.0" y="250.0" width="216.0" height="21.6" fill="#2b2b2b" stroke="#111111" stroke-width="1"/>
+<rect x="360.0" y="1384.0" width="526.5" height="81.0" fill="#ededed" stroke="#111111" stroke-width="1.4"/>
+<rect x="805.5" y="1060.0" width="81.0" height="324.0" fill="#ededed" stroke="#111111" stroke-width="1.4"/>
+<rect x="1183.5" y="661.75" width="216.0" height="128.25" rx="10" fill="none" stroke="#111111" stroke-width="1.4"/>
+<polygon points="360,250 1089.0,250 1089.0,493.0 1494.0,493.0 1494.0,1060.0 886.5,1060.0 886.5,1465.0 360,1465.0" fill="none" stroke="#111111" stroke-width="9" stroke-linejoin="miter"/>
+<line x1="1089.0" y1="493.0" x2="1089.0" y2="844.0" stroke="#111111" stroke-width="7" stroke-linecap="butt"/>
+<line x1="1089.0" y1="1006.0" x2="1089.0" y2="1060.0" stroke="#111111" stroke-width="7" stroke-linecap="butt"/>
+<rect x="351" y="304.0" width="18" height="216.0" fill="white"/>
+<line x1="353.25" y1="304.0" x2="353.25" y2="520.0" stroke="#111111" stroke-width="1.3"/>
+<line x1="360" y1="304.0" x2="360" y2="520.0" stroke="#111111" stroke-width="1.3"/>
+<line x1="366.75" y1="304.0" x2="366.75" y2="520.0" stroke="#111111" stroke-width="1.3"/>
+<rect x="351" y="574.0" width="18" height="40.500000000000036" fill="white"/>
+<line x1="353.25" y1="574.0" x2="353.25" y2="614.5" stroke="#111111" stroke-width="1.3"/>
+<line x1="360" y1="574.0" x2="360" y2="614.5" stroke="#111111" stroke-width="1.3"/>
+<line x1="366.75" y1="574.0" x2="366.75" y2="614.5" stroke="#111111" stroke-width="1.3"/>
+<rect x="351" y="648.25" width="18" height="40.49999999999998" fill="white"/>
+<line x1="353.25" y1="648.25" x2="353.25" y2="688.75" stroke="#111111" stroke-width="1.3"/>
+<line x1="360" y1="648.25" x2="360" y2="688.75" stroke="#111111" stroke-width="1.3"/>
+<line x1="366.75" y1="648.25" x2="366.75" y2="688.75" stroke="#111111" stroke-width="1.3"/>
+<rect x="1485.0" y="601.0" width="18" height="296.99999999999994" fill="white"/>
+<line x1="1487.25" y1="601.0" x2="1487.25" y2="898.0" stroke="#111111" stroke-width="1.3"/>
+<line x1="1494.0" y1="601.0" x2="1494.0" y2="898.0" stroke="#111111" stroke-width="1.3"/>
+<line x1="1500.7500000000002" y1="601.0" x2="1500.7500000000002" y2="898.0" stroke="#111111" stroke-width="1.3"/>
+<rect x="351" y="1195.0" width="18" height="189.00000000000006" fill="white"/>
+<line x1="353.25" y1="1195.0" x2="353.25" y2="1384.0" stroke="#111111" stroke-width="1.3"/>
+<line x1="360" y1="1195.0" x2="360" y2="1384.0" stroke="#111111" stroke-width="1.3"/>
+<line x1="366.75" y1="1195.0" x2="366.75" y2="1384.0" stroke="#111111" stroke-width="1.3"/>
+<rect x="441.0" y="1456.0" width="242.99999999999997" height="18" fill="white"/>
+<line x1="441.0" y1="1458.25" x2="684.0" y2="1458.25" stroke="#111111" stroke-width="1.3"/>
+<line x1="441.0" y1="1465.0" x2="684.0" y2="1465.0" stroke="#111111" stroke-width="1.3"/>
+<line x1="441.0" y1="1471.75" x2="684.0" y2="1471.75" stroke="#111111" stroke-width="1.3"/>
+<rect x="913.5" y="1051.0" width="121.50000000000004" height="18" fill="white"/>
+<line x1="913.5" y1="1060.0" x2="913.5" y2="938.5" stroke="#111111" stroke-width="1.6"/>
+<path d="M 1035.0 1060.0 A 121.5 121.5 0 0 0 913.5 938.5" fill="none" stroke="#111111" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="704.25" y="459.25" font-size="30" font-weight="bold" fill="#111111" text-anchor="middle">LIVING ROOM</text>
+<text x="704.25" y="489.25" font-size="22" fill="#333" text-anchor="middle">5.40 x 3.60 m</text>
+<text x="704.25" y="515.25" font-size="18" fill="#666" text-anchor="middle">9 x 6 tiles  |  19.4 m²</text>
+<circle cx="704.25" cy="401.25" r="15" fill="white" stroke="#111111" stroke-width="1.5"/>
+<text x="704.25" y="408.25" font-size="18" font-weight="bold" fill="#111111" text-anchor="middle">1</text>
+<text x="1291.5" y="729.25" font-size="30" font-weight="bold" fill="#111111" text-anchor="middle">DINING</text>
+<text x="1291.5" y="759.25" font-size="22" fill="#333" text-anchor="middle">3.00 x 4.20 m</text>
+<text x="1291.5" y="785.25" font-size="18" fill="#666" text-anchor="middle">5 x 7 tiles  |  12.6 m²</text>
+<circle cx="1291.5" cy="671.25" r="15" fill="white" stroke="#111111" stroke-width="1.5"/>
+<text x="1291.5" y="678.25" font-size="18" font-weight="bold" fill="#111111" text-anchor="middle">2</text>
+<text x="927.0" y="891.25" font-size="30" font-weight="bold" fill="#111111" text-anchor="middle">ENTRANCE</text>
+<text x="927.0" y="921.25" font-size="22" fill="#333" text-anchor="middle">2.40 x 2.40 m</text>
+<text x="927.0" y="947.25" font-size="18" fill="#666" text-anchor="middle">4 x 4 tiles  |  5.8 m²</text>
+<circle cx="927.0" cy="833.25" r="15" fill="white" stroke="#111111" stroke-width="1.5"/>
+<text x="927.0" y="840.25" font-size="18" font-weight="bold" fill="#111111" text-anchor="middle">3</text>
+<text x="623.25" y="1262.5" font-size="30" font-weight="bold" fill="#111111" text-anchor="middle">KITCHEN</text>
+<text x="623.25" y="1292.5" font-size="22" fill="#333" text-anchor="middle">3.90 x 3.00 m</text>
+<text x="623.25" y="1318.5" font-size="18" fill="#666" text-anchor="middle">6.5 x 5 tiles  |  11.7 m²</text>
+<circle cx="623.25" cy="1204.5" r="15" fill="white" stroke="#111111" stroke-width="1.5"/>
+<text x="623.25" y="1211.5" font-size="18" font-weight="bold" fill="#111111" text-anchor="middle">4</text>
+<text x="481.5" y="958.75" font-size="30" font-weight="bold" fill="#111111" text-anchor="middle">LIVING 2</text>
+<text x="481.5" y="988.75" font-size="22" fill="#333" text-anchor="middle">~1.80 x 1.50 m</text>
+<text x="481.5" y="1014.75" font-size="18" fill="#666" text-anchor="middle">~3 x 2.5 tiles  |  ~2.7 m²</text>
+<circle cx="481.5" cy="900.75" r="15" fill="white" stroke="#111111" stroke-width="1.5"/>
+<text x="481.5" y="907.75" font-size="18" font-weight="bold" fill="#111111" text-anchor="middle">5</text>
+<text x="738.0" y="225.7" font-size="17" fill="#444" font-style="italic" text-anchor="middle" transform="rotate(0 738.0 225.7)">TV WALL</text>
+<text x="322.2" y="412.0" font-size="15" fill="#444" font-style="italic" text-anchor="middle" transform="rotate(-90 322.2 412.0)">VITRINE (large glazing)</text>
+<text x="322.2" y="634.75" font-size="13" fill="#444" font-style="italic" text-anchor="middle" transform="rotate(-90 322.2 634.75)">2 narrow windows</text>
+<text x="1118.7" y="614.5" font-size="15" fill="#444" font-style="italic" text-anchor="middle" transform="rotate(90 1118.7 614.5)">DIVIDER WALL - black shelving / iPad</text>
+<text x="1523.6999999999998" y="749.5" font-size="15" fill="#444" font-style="italic" text-anchor="middle" transform="rotate(90 1523.6999999999998 749.5)">window</text>
+<text x="522.0" y="1435.3" font-size="14" fill="#555" font-style="italic" text-anchor="middle" transform="rotate(0 522.0 1435.3)">corner window</text>
+<text x="974.25" y="1105.9" font-size="14" fill="#555" font-style="italic" text-anchor="start" transform="rotate(0 974.25 1105.9)">front door</text>
+<text x="623.25" y="1351.6" font-size="13" fill="#666" font-style="italic" text-anchor="middle" transform="rotate(0 623.25 1351.6)">kitchen counter (cream)</text>
+<line x1="360" y1="204" x2="1089.0" y2="204" stroke="#111111" stroke-width="1.2"/>
+<line x1="355.0502525316942" y1="199.05025253169416" x2="364.9497474683058" y2="208.94974746830584" stroke="#111111" stroke-width="1.4"/>
+<line x1="1084.0502525316942" y1="199.05025253169416" x2="1093.9497474683058" y2="208.94974746830584" stroke="#111111" stroke-width="1.4"/>
+<line x1="360" y1="204" x2="360" y2="250" stroke="#bbb" stroke-width=".8"/>
+<line x1="1089.0" y1="204" x2="1089.0" y2="250" stroke="#bbb" stroke-width=".8"/>
+<text x="724.5" y="197" font-size="19" fill="#111111" text-anchor="middle">5.40</text>
+<line x1="1089.0" y1="204" x2="1494.0" y2="204" stroke="#111111" stroke-width="1.2"/>
+<line x1="1084.0502525316942" y1="199.05025253169416" x2="1093.9497474683058" y2="208.94974746830584" stroke="#111111" stroke-width="1.4"/>
+<line x1="1489.0502525316942" y1="199.05025253169416" x2="1498.9497474683058" y2="208.94974746830584" stroke="#111111" stroke-width="1.4"/>
+<text x="1291.5" y="197" font-size="19" fill="#111111" text-anchor="middle">3.00</text>
+<line x1="360" y1="158" x2="1494.0" y2="158" stroke="#111111" stroke-width="1.2"/>
+<line x1="355.0502525316942" y1="153.05025253169416" x2="364.9497474683058" y2="162.94974746830584" stroke="#111111" stroke-width="1.4"/>
+<line x1="1489.0502525316942" y1="153.05025253169416" x2="1498.9497474683058" y2="162.94974746830584" stroke="#111111" stroke-width="1.4"/>
+<text x="927.0" y="151" font-size="19" fill="#111111" text-anchor="middle">8.40  (overall)</text>
+<line x1="308" y1="250" x2="308" y2="736.0" stroke="#111111" stroke-width="1.2"/>
+<line x1="303.0502525316942" y1="245.05025253169416" x2="312.9497474683058" y2="254.94974746830584" stroke="#111111" stroke-width="1.4"/>
+<line x1="303.0502525316942" y1="731.0502525316941" x2="312.9497474683058" y2="740.9497474683059" stroke="#111111" stroke-width="1.4"/>
+<line x1="308" y1="250" x2="360" y2="250" stroke="#bbb" stroke-width=".8"/>
+<line x1="308" y1="736.0" x2="360" y2="736.0" stroke="#bbb" stroke-width=".8"/>
+<text x="301" y="493.0" font-size="19" fill="#111111" text-anchor="middle" transform="rotate(-90 301 493.0)">3.60</text>
+<line x1="308" y1="736.0" x2="308" y2="1060.0" stroke="#111111" stroke-width="1.2"/>
+<line x1="303.0502525316942" y1="731.0502525316941" x2="312.9497474683058" y2="740.9497474683059" stroke="#111111" stroke-width="1.4"/>
+<line x1="303.0502525316942" y1="1055.0502525316942" x2="312.9497474683058" y2="1064.9497474683058" stroke="#111111" stroke-width="1.4"/>
+<text x="301" y="898.0" font-size="19" fill="#111111" text-anchor="middle" transform="rotate(-90 301 898.0)">2.40</text>
+<line x1="308" y1="1060.0" x2="308" y2="1465.0" stroke="#111111" stroke-width="1.2"/>
+<line x1="303.0502525316942" y1="1055.0502525316942" x2="312.9497474683058" y2="1064.9497474683058" stroke="#111111" stroke-width="1.4"/>
+<line x1="303.0502525316942" y1="1460.0502525316942" x2="312.9497474683058" y2="1469.9497474683058" stroke="#111111" stroke-width="1.4"/>
+<text x="301" y="1262.5" font-size="19" fill="#111111" text-anchor="middle" transform="rotate(-90 301 1262.5)">3.00</text>
+<line x1="260" y1="250" x2="260" y2="1465.0" stroke="#111111" stroke-width="1.2"/>
+<line x1="255.05025253169416" y1="245.05025253169416" x2="264.9497474683058" y2="254.94974746830584" stroke="#111111" stroke-width="1.4"/>
+<line x1="255.05025253169416" y1="1460.0502525316942" x2="264.9497474683058" y2="1469.9497474683058" stroke="#111111" stroke-width="1.4"/>
+<text x="253" y="857.5" font-size="19" fill="#111111" text-anchor="middle" transform="rotate(-90 253 857.5)">9.00  (overall)</text>
+<line x1="1544.0" y1="493.0" x2="1544.0" y2="1060.0" stroke="#111111" stroke-width="1.2"/>
+<line x1="1539.0502525316942" y1="488.0502525316942" x2="1548.9497474683058" y2="497.9497474683058" stroke="#111111" stroke-width="1.4"/>
+<line x1="1539.0502525316942" y1="1055.0502525316942" x2="1548.9497474683058" y2="1064.9497474683058" stroke="#111111" stroke-width="1.4"/>
+<line x1="1544.0" y1="493.0" x2="1494.0" y2="493.0" stroke="#bbb" stroke-width=".8"/>
+<line x1="1544.0" y1="1060.0" x2="1494.0" y2="1060.0" stroke="#bbb" stroke-width=".8"/>
+<text x="1537.0" y="776.5" font-size="19" fill="#111111" text-anchor="middle" transform="rotate(-90 1537.0 776.5)">4.20</text>
+<line x1="360" y1="1511.0" x2="886.5" y2="1511.0" stroke="#111111" stroke-width="1.2"/>
+<line x1="355.0502525316942" y1="1506.0502525316942" x2="364.9497474683058" y2="1515.9497474683058" stroke="#111111" stroke-width="1.4"/>
+<line x1="881.5502525316941" y1="1506.0502525316942" x2="891.4497474683059" y2="1515.9497474683058" stroke="#111111" stroke-width="1.4"/>
+<line x1="360" y1="1511.0" x2="360" y2="1465.0" stroke="#bbb" stroke-width=".8"/>
+<line x1="886.5" y1="1511.0" x2="886.5" y2="1465.0" stroke="#bbb" stroke-width=".8"/>
+<text x="623.25" y="1504.0" font-size="19" fill="#111111" text-anchor="middle">3.90</text>
+<polygon points="1644.0,256 1632.0,304 1644.0,294 1656.0,304" fill="#111111"/>
+<text x="1644.0" y="246" font-size="18" font-weight="bold" text-anchor="middle">N</text>
+<text x="1644.0" y="324" font-size="12" fill="#777" text-anchor="middle">(assumed)</text>
+<text x="1564.0" y="1129.0" font-size="15" font-weight="bold">SCALE</text>
+<rect x="1564.0" y="1141.0" width="135" height="14" fill="#111111" stroke="#111111" stroke-width="1"/>
+<rect x="1699.0" y="1141.0" width="135" height="14" fill="white" stroke="#111111" stroke-width="1"/>
+<rect x="1834.0" y="1141.0" width="135" height="14" fill="#111111" stroke="#111111" stroke-width="1"/>
+<text x="1564.0" y="1175.0" font-size="13" text-anchor="middle">0</text>
+<text x="1699.0" y="1175.0" font-size="13" text-anchor="middle">1</text>
+<text x="1834.0" y="1175.0" font-size="13" text-anchor="middle">2</text>
+<text x="1969.0" y="1175.0" font-size="13" text-anchor="middle">3</text>
+<text x="1979.0" y="1175.0" font-size="13">m</text>
+<text x="1564.0" y="1199.0" font-size="13" fill="#777">1 sq = 60 cm tile</text>
+<text x="1564.0" y="1262.0" font-size="15" font-weight="bold">LEGEND</text>
+<line x1="1564.0" y1="1276.0" x2="1604.0" y2="1276.0" stroke="#111111" stroke-width="6"/>
+<text x="1616.0" y="1281.0" font-size="14">exterior / divider wall</text>
+<line x1="1564.0" y1="1306.0" x2="1604.0" y2="1306.0" stroke="#7a7a7a" stroke-width="2" stroke-dasharray="9 7"/>
+<text x="1616.0" y="1311.0" font-size="14">open-plan zone (no wall)</text>
+<line x1="1564.0" y1="1333.0" x2="1604.0" y2="1333.0" stroke="#111111" stroke-width="1.2"/>
+<line x1="1564.0" y1="1336.0" x2="1604.0" y2="1336.0" stroke="#111111" stroke-width="1.2"/>
+<line x1="1564.0" y1="1339.0" x2="1604.0" y2="1339.0" stroke="#111111" stroke-width="1.2"/>
+<text x="1616.0" y="1341.0" font-size="14">window</text>
+<line x1="1564.0" y1="1366.0" x2="1564.0" y2="1344.0" stroke="#111111" stroke-width="1.6"/>
+<path d="M 1586.0 1366.0 A 22 22 0 0 0 1564.0 1344.0" fill="none" stroke="#111111" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="1616.0" y="1371.0" font-size="14">door</text>
+<line x1="260" y1="1555.0" x2="1760" y2="1555.0" stroke="#111111" stroke-width="2"/>
+<text x="260" y="1593.0" font-size="34" font-weight="bold">GROUND FLOOR PLAN</text>
+<text x="260" y="1625.0" font-size="18" fill="#444">Rented home interior design brief &#8211; public floor</text>
+<text x="260" y="1655.0" font-size="16" fill="#555">Geometry: room sizes from tile count (60&#215;60 cm) &#183; layout traced from Dreame Aqua 10 map</text>
+<text x="260" y="1679.0" font-size="16" fill="#555">Total mapped area &#8776; 56.5 m&#178;   (Living 19.4 &#183; Dining 12.6 &#183; Kitchen 11.7 &#183; Entrance 5.8 &#183; Living-2 ~2.7)</text>
+<text x="1760" y="1593.0" font-size="16" text-anchor="end" fill="#333">Date: 18.06.2026</text>
+<text x="1760" y="1619.0" font-size="16" text-anchor="end" fill="#333">Scale: ~1:75 @A3</text>
+<text x="1760" y="1645.0" font-size="14" text-anchor="end" fill="#a33">SCHEMATIC &#8211; verify on site before any work</text>
+</svg>
